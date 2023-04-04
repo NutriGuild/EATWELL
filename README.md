@@ -1,3 +1,4 @@
+<!--the GIF we used was made by us-->
 <div align="center"> <img src="EATWELL.gif" width="467" height="175"> <br> </div>
 
 ______________________________________________________________________
