@@ -60,7 +60,7 @@ ______________________________________________________________________
 <details>
   <summary><h4> 💧 Water Intake Tracking </h4></summary>
   
-        • The software can track the user's water intake and remind them to drink water throughout the day.  
+        • The software can track the user's water intake and remind them to drink water throughout the .  
         • This feature allows user to track their daily water intake. Once the daily quota was met, a promt will be displayed as well as a short info about excessive water intake. Otherwise, a reminder will prompt to complete the daily water intake.
 
 </details>
