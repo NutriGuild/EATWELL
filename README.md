@@ -1,7 +1,7 @@
 <div align="center"> <img src="EATWELL.gif" width="467" height="175"> <br> </div>
 
 ______________________________________________________________________
-### ❗❗ PLEASE USE DARK MODE
+<h3><b>  ❗ PLEASE USE DARK MODE</b></h3>
 <h3><b>🗂 Table of Contents</b></h3>
 
 <ul>
