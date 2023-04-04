@@ -15,7 +15,7 @@ ______________________________________________________________________
 ______________________________________________________________________
 <h3 id="introduction"><b>📄 Introduction</b></h3>
 
-      This is a project proposal for **`CS121 - Advanced Computer Programming`**, which is being developed by **`THE AVENGERS`** from **`CS-1202`**. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and key features.
+      This is a project proposal for **`CS121 - Advanced Computer Programming`**, which is being developed by **`NutriGuild`** from **`CS-1202`**. The purpose of this project is to create a personalized nutrition and meal planning software that provides users with customized nutrition plans and meal recommendations based on their individual health goals and dietary preferences. The goal of the software is to help users make healthier food choices and improve their overall health and well-being. In this proposal, we will provide an overview of the project, including its objectives, scope, and key features.
 ______________________________________________________________________
 <h3 id="objectives"><b>🔗 Objectives</b></h3>
 <h4> The objectives of this project are:</h4>
@@ -83,12 +83,12 @@ ______________________________________________________________________
 ______________________________________________________________________
 <h3 id="conclusion"><b>💬 Conclusion</b></h3>
 
-       We believe that **PROJECT “EATWELL”** will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
+       We believe that **PROJECT “EATWELL”** will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
 ______________________________________________________________________
 <h3 align="center">
 It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it. <br>
   EATWELL😋
   <br><br>
 <img src="THANK YOU!.gif" width="334" height="50"><br>
-<h4 align="center">THE AVENGERS | CS-1202</h4>
+<h4 align="center">NutriGuild | CS-1202</h4>
 </h3>
