@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 def mealplanning():
     while True:
