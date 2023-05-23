@@ -1,10 +1,10 @@
 import time
-import choice_1, choice_2, choice_3, choice_6
+import choice_1, choice_2, choice_3, choice_4 choice_6
 
 nutri_one = choice_1
 nutri_two = choice_2
 nutri_three = choice_3
-#nutri_four =
+nutri_four = choice_4
 #nutri_five =
 nutri_six = choice_6
 #nutri_seven =
@@ -34,7 +34,10 @@ while True:
     elif choice == "3":
         nutri_three.mealplanning()
     elif choice == "4":
-        pass
+        nutri_four = choice_4.Calorie_Tracker()
+        nutri_four.main()
+        nutri_four.user_info()
+        nutri_four.calorie_intake()
     elif choice == "5":
         pass
     elif choice == "6":
