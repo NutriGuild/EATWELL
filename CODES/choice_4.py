@@ -46,7 +46,7 @@ class Calorie_Tracker():
             print(f"\n  The calorie you need today is {self.bmr}.")
             self.cal_limit = self.bmr
 
-            with open("users.txt", "a+") as file:
+            with open("calorie.txt", "a+") as file:
                 file.seek(0)  # Move the file pointer to the beginning
                 content = file.read()
 
@@ -57,7 +57,7 @@ class Calorie_Tracker():
                     self.cal_intake = float(input("\n  Please enter your caloric intake for the day: "))
                     self.diff = round(self.bmr - self.cal_intake, 2)
 
-                    diff_last_recorded = round(self.bmr - (last_cal_intake + self.cal_intake), 2)
+                    diff_last_recorded = round(self.diff - self.cal_intake, 2)
 
                     if self.cal_intake <= self.cal_limit:
                         print(f"  \nThe calorie you need more of is {diff_last_recorded}.")
