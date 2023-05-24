@@ -67,7 +67,7 @@ ______________________________________________________________________
 
 </details>
 <details>
-  <summary><h4>📖 Food Diary and Progress Tracking </h4></summary>
+  <summary><h4>📖 Food Diary </h4></summary>
   
         • The software can provide users with a food diary to track their meals and progress towards their health goals. Users can also set reminders to log their meals and monitor their progress.  
         • This feature will allow users to note their food intake. A progress display will pop-up that is based on the user's chosen nutritional or dietary goal.
