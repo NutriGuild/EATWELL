@@ -103,7 +103,7 @@ ______________________________________________________________________
 ______________________________________________________________________
 <h3 id="conclusion"><b>💬 Conclusion</b></h3>
 
-       We believe that **PROJECT “EATWELL”** will be a great help to improve nutritional intake, enhanced weight management, simplified meal planning, increased awareness of dietary habits,  greater adherence to dietary goals, improved health outcomes and enhanced user experience. 
+       In conclusion, PROJECT "EATWELL" offers a comprehensive solution that aims to improve nutritional intake, facilitate weight management, simplify meal planning, increase awareness of dietary habits, enhance adherence to dietary goals, improve health outcomes, and provide an enhanced user experience. By incorporating various features such as personalized information storage, recipe suggestions, meal planning, calorie tracking, water intake tracking, and meal logging, "EATWELL" strives to empower users in making informed choices and achieving their health and wellness goals. 
 ______________________________________________________________________
 <h3 align="center">
 It is a pleasure to have the opportunity to share our project ideas with you. We are hopeful that our proposal will meet your expectations, and we thank you for considering it. <br>
