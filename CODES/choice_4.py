@@ -114,4 +114,5 @@ class Calorie_Tracker():
 
 
 if __name__ == "__main__":
-    main()
+    calorie = Calorie_Tracker()
+    calorie.main()
