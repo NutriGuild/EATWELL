@@ -46,13 +46,7 @@ ______________________________________________________________________
   
 </details>
 <details>
-  <summary><h4>📈 Calorie Tracking and Goal Setting </h4></summary>
-  
-        • The software can track the user's calorie intake and help them set daily calorie goals based on their weight loss or weight management goals.  
-        • This feature will allow the user to track their daily caloric intake to monitor their chosen diet status, whether it is a caloric deficit,  caloric surplus, or caloric maintenance. The user may change the goal setting after a specific option is completed to maintain a good nutritional habit.
 
-</details>
-<details>
   <summary><h4>📝 Meal Planning and Grocery List Creation </h4></summary>
   
         • The software can help users plan their meals for the week and create a grocery list based on the recipes they choose.  
@@ -60,6 +54,15 @@ ______________________________________________________________________
 
 </details>
 <details>
+  
+  <summary><h4>📈 Calorie Tracking and Goal Setting </h4></summary>
+  
+        • The software can track the user's calorie intake and help them set daily calorie goals based on their weight loss or weight management goals.  
+        • This feature will allow the user to track their daily caloric intake to monitor their chosen diet status, whether it is a caloric deficit,  caloric surplus, or caloric maintenance. The user may change the goal setting after a specific option is completed to maintain a good nutritional habit.
+
+</details>
+<details>
+  
   <summary><h4> 💧 Water Intake Tracking </h4></summary>
   
         • The software can track the user's water intake and remind them to drink water throughout the day.  
