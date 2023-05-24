@@ -100,6 +100,27 @@ class Calorie_Tracker:
             else:
                 break
 
+    def total_calorie_consumed(self):
+        with open("calorie.txt", "r") as file:
+            content = file.read()
+            total_calories = 0
+
+            if self.user_data[0] in content:
+                user_entries = content.split('\n\n')
+                for entry in user_entries:
+                    if self.user_data[0] in entry:
+                        lines = entry.strip().split('\n')
+                        for line in lines:
+                            if line.startswith("Caloric Intake:"):
+                                caloric_intake = float(line.split(":")[1].strip())
+                                total_calories += caloric_intake
+
+        with open("total_calories.txt", "a") as file:
+            file.write(f"Date: {datetime.now().strftime('%Y-%m-%d')}\n")
+            file.write(f"Total Calories Consumed: {total_calories}\n")
+            file.write("\n")
+
+        print(f"\nTotal calories consumed today: {total_calories}")
 
     def main(self):
         calorie = Calorie_Tracker()
@@ -127,6 +148,7 @@ class Calorie_Tracker:
                 return exec(open("main_menu.py").read())
             else:
                 print("Invalid. Try again.")
+
 
 if __name__ == "__main__":
     calorie = Calorie_Tracker()
