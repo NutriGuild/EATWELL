@@ -1,0 +1,78 @@
+
+Timestamp: 2023-05-24 11:26:19
+Caloric Intake: 400.0
+Remaining Needed Calorie: 676.11
+
+Timestamp: 2023-05-24 11:26:28
+Caloric Intake: 500.0
+Remaining Needed Calorie: 76.11
+
+Timestamp: 2023-05-24 11:26:35
+Caloric Intake: 100.0
+Remaining Needed Calorie: 876.11
+
+Timestamp: 2023-05-24 11:27:40
+Caloric Intake: 200.0
+Remaining Needed Calorie: 676.11
+
+admin1:
+
+admin3:
+Timestamp: 2023-05-24 11:41:18
+Caloric Intake: 300.0
+Remaining Needed Calorie: 671.4
+
+admin3:
+Timestamp: 2023-05-24 11:42:46
+Caloric Intake: 300.0
+Remaining Needed Calorie: 371.4
+
+admin4:
+Timestamp: 2023-05-24 11:45:36
+Caloric Intake: 400.0
+Remaining Needed Calorie: 539.26
+
+admin4:
+Timestamp: 2023-05-24 11:45:43
+Caloric Intake: 400.0
+Remaining Needed Calorie: 139.26
+
+admin4:
+Timestamp: 2023-05-24 11:46:13
+Caloric Intake: 200.0
+Remaining Needed Calorie: 539.26
+
+admin5:
+Timestamp: 2023-05-24 11:48:17
+Caloric Intake: 400.0
+Remaining Needed Calorie: 686.34
+
+admin6:
+Timestamp: 2023-05-24 11:49:45
+Caloric Intake: 300.0
+Remaining Needed Calorie: 806.83
+
+admin7:
+Timestamp: 2023-05-24 11:52:52
+Caloric Intake: 300.0
+Remaining Needed Calorie: 959.72
+
+admin7:
+Timestamp: 2023-05-24 11:53:04
+Caloric Intake: 400.0
+Remaining Needed Calorie: 459.72
+
+admin7:
+Timestamp: 2023-05-24 11:53:18
+Caloric Intake: 300.0
+Remaining Needed Calorie: 659.72
+
+admin8:
+Timestamp: 2023-05-24 11:54:47
+Caloric Intake: 300.0
+Remaining Needed Calorie: 575.76
+
+admin8:
+Timestamp: 2023-05-24 11:54:53
+Caloric Intake: 400.0
+Remaining Needed Calorie: 75.76
