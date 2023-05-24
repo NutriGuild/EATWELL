@@ -22,7 +22,8 @@ ______________________________________________________________________
 <h3 id="objectives"><b>🔗 Objectives</b></h3>
 <h4> The objectives of this project are:</h4>
 
-🔴 To store and manage their personal information, including age, weight, height, and sex, which can be used to calculate and track their BMI (Body Mass Index), with the additional capability to view and update this information as needed. \n
+🔴 To store and manage their personal information, including age, weight, height, and sex, which can be used to calculate and track their BMI (Body Mass Index), with the additional capability to view and update this information as needed.
+
 🟡 To create a system that offers recipe suggestions and provides nutritional information, allowing users to choose whether or not they want a recipe suggestion.
 🟢 To implement a meal planning and grocery list creation that utilizes OpenAI's API to generate a grocery list in bullet form based on the user's input meal.
 🔵 To develop a calorie tracking and goal setting that allows users to set their calorie goals, track consumed calories, check progress towards the goal, reset the tracker, and save progress.
