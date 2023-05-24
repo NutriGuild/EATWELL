@@ -4,7 +4,7 @@ class WaterTracker:
         self.total_water = 0
 
     def track_water(self, amount):
-        self.total_water += amount
+        self.total_water += int(amount)
 
     def check_progress(self):
         print(f"  Total water intake: {self.total_water} / 1896 ml")
