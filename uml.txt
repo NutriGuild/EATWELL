@@ -1,0 +1,137 @@
++----------------------------------+
+|              User                |
++----------------------------------+
+| - username: string               |
+| - password: string               |
++----------------------------------+
+| + authenticate(entered_password) |
++----------------------------------+
+             ^
+             |
+             |
+(Inheritance)|
+             |
+             |
+             v
++--------------------------------------+
+|           RegisteredUser             |
++--------------------------------------+
+| - age: int                           |
+| - weight: int                        |
+| - height: int                        |
+| - sex: string                        |
+| - bmr: float                         |
++------------------------------------------+
+| + display_info()                         |
+| + calculate_bmr(age, weight, height, sex)|
+| + save_user_data(users)                  |
+| + save_bmr(username, bmr)                |
+| + save_water(username)                   |
+| + load_user_data()                       |
+| + login()                                |
+| + view_info(username)                    |
+| + update_info(username)                  |
+| + update_calorie_file()                  |
+| + users_info()                           |
+| + record_food()                          |
+| + view_diary()                           |
+| + diary()                                |
++------------------------------------------+
+| <<extend>>                               |
+| + calculate_bmr(age, weight, height, sex)|
+| + view_info(username)                    |
+| + update_info(username)                  |
+| + update_calorie_file()                  |
+| + users_info()                           |
+| + record_food()                          |
+| + view_diary()                           |
+| + diary()                                |
++------------------------------------------+
+             ^
+             |
+             |
+(Dependency) |
+             |
+             |
+             v
++-------------------------------+
+|        CalorieTracker         |
++-------------------------------+
+| - goal: float                 |
+| - total_calories: float       |
++-------------------------------+
+| + track_calories(calories)    |
+| + check_progress()            |
+| + reset_tracker()             |
+| + set_goal(goal)              |
++-------------------------------+
+             ^
+             |
+             |
+(Dependency) |
+             |
+             |
+             v
++--------------------------+
+|       openai             |
++--------------------------+
+| + api_key                |
+| + ChatCompletion.create()|
++--------------------------+
+| <<use>>                  |
+| + get_api_key()          |
++--------------------------+
+             ^
+             |
+             |
+(Dependency) |
+             |
+             |
+             v
++-------------------------+
+|      MainSystem         |
++-------------------------+
+| + recipe_suggestion()   |
+| + mealplanning()        |
+| + main()                |
++-------------------------+
+| <<use>>                 |
+| + suggested_recipe()    |
+| + get_api_key()         |
++-------------------------+
+             ^
+             |
+             |
+(Dependency) |
+             |
+             |
+             v
++---------------------------+
+|       WaterTracker        |
++---------------------------+
+| - limit: int              |
+| - total_water: int        |
++---------------------------+
+| + track_water(amount)     |
+| + check_progress()        |
+| + check_goal_achievement()|
+| + reset_tracker()         |
++---------------------------+
+             ^
+             |
+             |
+(Dependency) |
+             |
+             |
+             v
++-------------------+
+|   RecipeDatabase  |
++-------------------+
+| - recipes: list   |
++------------------------+
+| + add_recipe(recipe)   |
+| + remove_recipe(recipe)|
+| + search_recipe(query) |
+| + get_recipe(name)     |
+| + list_recipes()       |
++------------------------+
