@@ -47,7 +47,7 @@ ______________________________________________________________________
 <details>
   
   <summary><h4> 💡 User Info </h4></summary>
-  <div align="center"> <img src="Photos/[1]_userinfo" width="467" height="175"> <br> </div>
+  <div align="center"> <img src="[1]_userinfo" width="467" height="175"> <br> </div>
 
         • The software can suggest recipes based on the user's dietary preferences and provide nutritional information for each recipe.  
         • This feature allows users to choose a specific recipe for their desired nutritional goal. Each recipe will have a set of nutritional information that will sustain the user's needs.
