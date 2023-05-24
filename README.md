@@ -47,7 +47,7 @@ ______________________________________________________________________
 <details>
   
   <summary><h4> 💡 User Info </h4></summary>
-  <div align="center"> <img src="Photos/[1]_userinfo.png" width="467" height="175"> <br> </div>
+  <div align="center"> <img src="PHOTOS/[1]_userinfo.png" width="467" height="175"> <br> </div>
 
         • In the User Info option (option 1), users enter their username. They are presented with two options: View Info and Exit. If they choose to view their info, their personal information is displayed. Users can update their information individually, and the changes are automatically saved.
   
@@ -55,7 +55,7 @@ ______________________________________________________________________
 <details>
   
   <summary><h4> 💬 Recipe Suggestion and Nutritional Information </h4></summary>
-  <div align="center"> <img src="Photos/[2]_recipe.png" width="350" height="310"> <br> </div>
+  <div align="center"> <img src="PHOTOS/[2]_recipe.png" width="350" height="310"> <br> </div>
 
         • Option 2 allows users to request a random recipe. The recipe includes a set of ingredients and brief nutritional facts.  
   
@@ -63,7 +63,7 @@ ______________________________________________________________________
 <details>
 
   <summary><h4>📝 Meal Planning and Grocery List Creation </h4></summary>
-  <div align="center"> <img src="Photos/[3]_mealplan.png" width="350" height="225"> <br> </div>
+  <div align="center"> <img src="PHOTOS/[3]_mealplan.png" width="350" height="225"> <br> </div>
   
         • Option 3 asks users if they want a grocery list for a specific meal. If they choose option 1, they are prompted to select a meal for which they want a grocery list. With the assistance of AI, the system automatically generates the list in bullet point format.
 
@@ -71,7 +71,7 @@ ______________________________________________________________________
 <details>
   
   <summary><h4>📈 Calorie Tracking and Goal Setting </h4></summary>
-  <div align="center"> <img src="Photos/[4]_calorie.png" width="350" height="225"> <br> </div>
+  <div align="center"> <img src="PHOTOS/[4]_calorie.png" width="350" height="225"> <br> </div>
   
         • Option 4 offers five modes: Goal Setting, Track Calories, Check Progress, and Reset Tracker. In the Goal Setting mode, the user's BMR is displayed based on their data. Track Calories allows users to enter the amount of calories consumed. Check Progress monitors the remaining calories that need to be consumed. Reset Tracker restores the target calories or BMR to its default value.
 
@@ -79,14 +79,14 @@ ______________________________________________________________________
 <details>
   
   <summary><h4> 💧 Water Intake Tracking </h4></summary>
-  <div align="center"> <img src="Photos/[5]_water.png" width="350" height="225"> <br> </div>
+  <div align="center"> <img src="PHOTOS/[5]_water.png" width="350" height="225"> <br> </div>
   
         • Option 5 tracks the user's water intake. It includes Track Water Intake, Check Progress, Check Goal Achievement, and Reset Tracker. Track Water Intake prompts users to enter the amount of water consumed. The entered amount is compared to the required water intake per day, which is 1,896 mL, in the Check Progress section. Check Goal Achievement displays the remaining amount of water that needs to be consumed on a particular day. Reset Tracker allows users to reset the target water intake.
 
 </details>
 <details>
   <summary><h4>📖 Food Diary </h4></summary>
-  <div align="center"> <img src="Photos/[6]_fooddiary.png" width="467" height="175"> <br> </div>
+  <div align="center"> <img src="PHOTOS/[6]_fooddiary.png" width="467" height="175"> <br> </div>
   
         • The last option enables users to input the food they consumed on a particular date. This mode has two options: Record Food and Food Diary. In Record Food, users enter the date in the format Month-Day-Year. If the user enters the wrong sequence, an error message is displayed, allowing them to correct the date. Next, users choose between breakfast, lunch, snack, or dinner and input the corresponding food items. The Food Diary option displays the entered data, allowing users to delete specific items from the list and save the changes. 
 
