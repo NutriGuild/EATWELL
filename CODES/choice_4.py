@@ -108,7 +108,7 @@ class Calorie_Tracker():
                 print("+", "=" * 56, "+")
                 calorie.calorie_intake()
             elif the_choice == "B" or the_choice == "b":
-                break
+                return exec(open("main_menu.py").read())
             else:
                 print("Invalid. Try again.")
 
