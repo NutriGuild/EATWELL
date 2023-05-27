@@ -97,10 +97,13 @@ ______________________________________________________________________
 <h3 id="team"><b>👥 Team</b></h3>
 <h4> The following individuals will be working on this project:</h4>
   
-🐔  [BARICAN, John Andrei A.](https://github.com/e4677)
-🐻  [GENIL, Gemma Rose L.](https://github.com/maroseeeee)
-🐷  [GUINOBAN, Glenn M.](https://github.com/GUINOBAN)
-:shipit:  [LALONGISIP, Darlyne Grace M.](https://github.com/drlyngrc)
+  🐔  [BARICAN, John Andrei A.](https://github.com/e4677)
+  
+  🐻  [GENIL, Gemma Rose L.](https://github.com/maroseeeee)
+  
+  🐷  [GUINOBAN, Glenn M.](https://github.com/GUINOBAN)
+  
+  :shipit:  [LALONGISIP, Darlyne Grace M.](https://github.com/drlyngrc)
 ______________________________________________________________________
 <h3 id="conclusion"><b>💬 Conclusion</b></h3>
 
